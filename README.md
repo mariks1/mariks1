@@ -45,7 +45,7 @@
 ---
 
 ### 🔥 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=mariks1&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mariks1&theme=dracula)   
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariks1&layout=compact&langs_count=8)
 
